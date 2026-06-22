@@ -8,4 +8,4 @@ Simple REST API calculator built with FastAPI.
 - REST API structure
 
 ## Run
-uvicorn app.main:app --reload
+uvicorn main:app --reload
